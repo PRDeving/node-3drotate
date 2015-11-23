@@ -1,0 +1,13 @@
+{
+  "name": "3drotate",
+  "version": "0.0.3",
+  "description": "Light c++ binding that allows you to rotate an 3d point mesh",
+  "main": "build/Release/3drotate.node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "PRDeving",
+  "license": "ISC",
+  "gypfile": true
+}

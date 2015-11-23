@@ -1,0 +1,6 @@
+Release/obj.target/3D-Rotate/rotate.o: ../rotate.cpp \
+  /Users/pabloroizo/.node-gyp/5.0.0/include/node/node.h \
+  /Users/pabloroizo/.node-gyp/5.0.0/include/node/v8.h \
+  /Users/pabloroizo/.node-gyp/5.0.0/include/node/v8-version.h \
+  /Users/pabloroizo/.node-gyp/5.0.0/include/node/v8config.h \
+  /Users/pabloroizo/.node-gyp/5.0.0/include/node/node_version.h
